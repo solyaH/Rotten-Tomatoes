@@ -1,0 +1,35 @@
+{
+"total": 50,
+"reviews": [
+  {
+    "critic": "Mick LaSalle",
+    "freshness": "fresh",
+    "publication": "San Francisco Chronicle",
+    "quote": "Nielsen makes a dapper and calmly inept Dracula, but it's Brooks' irrepressible and oblivious Van Helsing who's the main attraction."
+  },
+   {
+    "critic": "Jonathan Rosenbaum",
+    "freshness": "rotten",
+    "publication": "Chicago Reader",
+    "quote": "Either this is the lamest Mel Brooks comedy ever or it's too close to other contenders to make much difference."
+  },
+   {
+    "critic": "Joe Leydon",
+    "freshness": "rotten",
+    "publication": "Variety",
+    "quote": "The only real sparks are set off by MacNicol as Renfield, the solicitor who develops a taste for flies and spiders after being bitten by Dracula."
+  },
+  {
+    "critic": "John Wirt",
+    "freshness": "rotten",
+    "publication": "Advocate (Baton Rouge, LA)",
+    "quote": "This Dracula spoof belongs dead."
+  },
+   {
+    "critic": "Felix Vasquez Jr.",
+    "freshness": "fresh",
+    "publication": "Cinema Crazed",
+    "quote": "A very above par and often funny satire of a horror classic."
+  }
+]
+}

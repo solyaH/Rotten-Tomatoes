@@ -1,0 +1,35 @@
+{
+"total": 50,
+"reviews": [
+  {
+    "critic": "Nick Rogers",
+    "freshness": "fresh",
+    "publication": "Suite101.com",
+    "quote": "It's hardly the landlubber suggested by its reputation (which has more likely shifted more toward novel curiosity than cautionary tale). But if all the parties involved suspected they were going broke, they should have gone *for* broke to boot."
+  },
+   {
+    "critic": "Todd McCarthy",
+    "freshness": "rotten",
+    "publication": "Variety",
+    "quote": "What seemed like a dubious proposition on paper plays even more dubiously onscreen, as 'Cutthroat Island' strenuously but vainly attempts to revive the thrills of old-fashioned pirate pictures."
+  },
+   {
+    "critic": "Trevor Johnston ",
+    "freshness": "rotten",
+    "publication": "Time Out",
+    "quote": "In this $90m revisionist swashbuckler, we get Geena Davis doing the all-action honours, and a hotchpotch script that seems to think pirate movies are so funny in themselves the need for more humour is superfluous."
+  },
+  {
+    "critic": "Douglas Pratt ",
+    "freshness": "fresh",
+    "publication": "DVDLaser",
+    "quote": "The drama is shallow and superficial, but there is a coherent, forward-moving plot, enjoyable characters, numerous, elaborately staged action scenes and wall-to-wall sound. What's not to like? The film never slows down, leaping from one set of perils to"
+  },
+   {
+    "critic": "KJB ",
+    "freshness": "fresh",
+    "publication": "IGN Movies",
+    "quote": "It's an Errol Flynn movie with breasts. Geena Davis is one of the few actresses in Hollywood with physical stature to pull off a part like this (hard to imagine Melanie Griffith as a pirate) and Renny Harlin just like to blow stuff up"
+  }
+]
+}

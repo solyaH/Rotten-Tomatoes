@@ -1,0 +1,35 @@
+{
+"total": 50,
+"reviews": [
+  {
+    "critic": "Roger Ebert ",
+    "freshness": "rotten",
+    "publication": "Chicago Sun-Times",
+    "quote": "A gloomy special-effects extravaganza filled with grotesque images, generating fear and despair."
+  },
+  {
+    "critic": "Christine James",
+    "freshness": "fresh",
+    "publication": "Boxoffice Magazine",
+    "quote": "A visually impressive and exhilarating adventure that keeps the suspense, thrills and comedy running high through the surprising end and supplies interesting characters with moving plights that keep the audience rooting."
+  },
+  {
+    "critic": "Paul Byrnes ",
+    "freshness": "fresh",
+    "publication": "Sydney Morning Herald",
+    "quote": "The humans are wooden, the computer-animals have that floating, jerky gait of animated fauna."
+  },
+  {
+    "critic": "Roger Ebert",
+    "freshness": "rotten",
+    "publication": "Chicago Sun-Times",
+    "quote": "A gloomy special-effects extravaganza filled with grotesque images, generating fear and despair."
+  },
+  {
+    "critic": "Neil Smith",
+    "freshness": "fresh",
+    "publication": "BBC.com",
+    "quote": "Take away the CGI mayhem and what emerges is a rather touching tale of second chances and innocence prematurely lost."
+  }
+]
+}

@@ -1,0 +1,35 @@
+{
+"total": 50,
+"reviews": [
+  {
+    "critic": "Simon Miraudo ",
+    "freshness": "fresh",
+    "publication": "Quickflix",
+    "quote": "Casino is Scorsese's 'messy drawer' of a movie; disconnected scenes and stylistic odds and sods... it might be his most idiosyncratic."
+  },
+   {
+    "critic": "Dennis Schwartz ",
+    "freshness": "rotten",
+    "publication": "Ozus' World Movie Reviews",
+    "quote": "Overlong and tedious crime drama epic. A kinetic behind-the-scenes look at the Vegas casinos."
+  },
+   {
+    "critic": "Owen Gleiberman",
+    "freshness": "fresh",
+    "publication": "Entertainment Weekly",
+    "quote": "[Stone] seems to be trying to enter a more passionate movie, where a neurotic gold digger could at least have a good time. By the end of Casino, for all its craftsmanly bravura, you may want to join her."
+  },
+  {
+    "critic": "Richard Schickel ",
+    "freshness": "fresh",
+    "publication": "TIME Magazine",
+    "quote": "So long as Casino stays focused on the excesses -- of language, of violence, of ambition -- in the life-styles of the rich and infamous, it remains a smart, knowing, if often repetitive, spectacle."
+  },
+   {
+    "critic": "David Ansen",
+    "freshness": "rotten",
+    "publication": "Newsweek",
+    "quote": "It's not the actors' fault that no one is able to break through the film's gorgeous but chilly surface. You watch Casino with respect and appreciation, reveling in its documentary sense of detail."
+  }
+]
+}

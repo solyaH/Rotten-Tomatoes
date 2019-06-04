@@ -1,0 +1,35 @@
+{
+"total": 50,
+"reviews": [
+  {
+    "critic": "Susan Wloszczyna",
+    "freshness": "rotten",
+    "publication": "USA Today",
+    "quote": "There's so little to watch besides Carrey, in fact, it makes you actually miss (gasp!) Sean Young from Ace 1."
+  },
+   {
+    "critic": "Cole Smithey",
+    "freshness": "fresh",
+    "publication": "ColeSmithey.com",
+    "quote": "A guilty pleasure."
+  },
+   {
+    "critic": "Emily Blunt",
+    "freshness": "fresh",
+    "publication": "Blunt Review",
+    "quote": "It's silly stoo-pid merriment...for any age."
+  },
+  {
+    "critic": "Michael Dequina",
+    "freshness": "rotten",
+    "publication": "TheMovieReport.com",
+    "quote": "Painful to sit through."
+  },
+   {
+    "critic": "Jeffrey Overstreet",
+    "freshness": "rotten",
+    "publication": "Looking Closer",
+    "quote": "... if you want to watch something brainless, this isn't a total waste."
+  }
+]
+}

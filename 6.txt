@@ -1,0 +1,35 @@
+{
+"total": 50,
+"reviews": [
+  {
+    "critic": "Nick Rogers ",
+    "freshness": "fresh",
+    "publication":"Suite101.com",
+    "quote": "Ominous, operatic, often emulated but never equaled. This is go-for-broke, GOAT-level filmmaking - not only upending expectations but exceeding them with unanticipated success in its elegant, exciting examination of existential and emotional entropy."
+  },
+  {
+    "critic": "Adrian Turner",
+    "freshness": "fresh",
+    "publication": "Radio Times",
+    "quote": "Though punctuated by bursts of virtuoso action, including a running battle in downtown LA that ranks as one of the best action scenes ever filmed, it is the unusual emphasis on character that impresses most."
+  },
+  {
+    "critic": "Peter Canavese",
+    "freshness": "fresh",
+    "publication": "Groucho Reviews",
+    "quote": "A stealth epic, framing an urban jungle and making its own kind of contemporary history by pairing acting giants Robert DeNiro and Al Pacino in what has arguably become the preminent cops-and-robbers movie. "
+  },
+  {
+    "critic": "Janet Maslin ",
+    "freshness": "rotten",
+    "publication": "New York Times",
+    "quote": "As Heat progresses, its sensational looks pale beside storytelling weaknesses that expose the more soulless aspects of this cat-and-mouse crime tale."
+  },
+  {
+    "critic": "Frederic and Mary Ann Brussat ",
+    "freshness": "fresh",
+    "publication": "Spirituality and Practice",
+    "quote": "Powerful and compelling drama about two similiar men on the opposite sides of the law find themselves on a collision course"
+  }
+]
+}

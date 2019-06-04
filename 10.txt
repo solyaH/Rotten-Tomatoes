@@ -1,0 +1,35 @@
+{
+"total": 50,
+"reviews": [
+  {
+    "critic": "Steven Rea",
+    "freshness": "rotten",
+    "publication": "Philadelphia Inquirer",
+    "quote": "Giving 007 a sleek bullet of a BMW instead of his trusty old Aston-Martin isn't exactly going to turn the world of Bond upside down. And, as it turns out, neither does the casting of Brosnan."
+  },
+   {
+    "critic": "Owen Gleiberman ",
+    "freshness": "rotten",
+    "publication": "Entertainment Weekly",
+    "quote": "I don't know whether the Bond series has a future, but if Xenia Onatopp ever returns to try for world domination, he may finally get a battle worth fighting."
+  },
+   {
+    "critic": "David Baron ",
+    "freshness": "fresh",
+    "publication": "Times-Picayune",
+    "quote": "It contains four or five humorous, intricately choreographed action sequences that -- while not as riveting as similar episodes in True Lies or Die Hard With a Vengeance -- are enjoyable on that idiot level that even critics possess."
+  },
+  {
+    "critic": "Michael Wilmington ",
+    "freshness": "fresh",
+    "publication": "Chicago Tribune",
+    "quote": "James Bond, the British spy with a taste for the high life and a license to kill, comes back in surprisingly hardy and supple form."
+  },
+   {
+    "critic": "Doug Thomas",
+    "freshness": "fresh",
+    "publication": "Seattle Times",
+    "quote": "Brosnan's right there, born to play the part. Perhaps by design, he captures a bit from each predecessor -- the panache of Sean Connery, the cheeky humor of Roger Moore, the serious grit of Timothy Dalton."
+  }
+]
+}

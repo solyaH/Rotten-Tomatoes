@@ -1,0 +1,35 @@
+{
+"total": 50,
+"reviews": [
+  {
+    "critic": "Brian Lowry",
+    "freshness": "rotten",
+    "publication": "Variety",
+    "quote": "Bounces along with a lame script and inconsistent pace."
+  },
+  {
+    "critic": "Nigel Floyd",
+    "freshness": "rotten",
+    "publication": "Time Out",
+    "quote": "Hardly worth the four-year wait."
+  },
+  {
+    "critic": "Mike Clark",
+    "freshness": "rotten",
+    "publication": "USA Today",
+    "quote": "It's stupid, but also breezier than the year's other 12-score releases not worth a second look."
+  },
+  {
+    "critic": "Hal Hinson",
+    "freshness": "rotten",
+    "publication": "Washington Post",
+    "quote": "Even if they only charged a token, it would be too much."
+  },
+  {
+    "critic": "Rob Thomas",
+    "freshness": "rotten",
+    "publication": "Capital Times (Madison, WI)",
+    "quote": "A loud and truly pointless action-comedy."
+  }
+]
+}

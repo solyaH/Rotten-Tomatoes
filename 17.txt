@@ -1,0 +1,35 @@
+{
+"total": 50,
+"reviews": [
+  {
+    "critic": "Todd McCarthy",
+    "freshness": "fresh",
+    "publication": "Variety",
+    "quote": "Thompson's script manages the neat trick of preserving the necessary niceties and decorum of civilized behavior of the time while still cutting to the dramatic quick."
+  },
+   {
+    "critic": "Jonathan Rosenbaum",
+    "freshness": "fresh",
+    "publication": "Chicago Reader",
+    "quote": "I can't say I remembered this 1995 feature too clearly a couple of days later; but I certainly had a good time as I watched it."
+  },
+   {
+    "critic": "Geoff Andrew",
+    "freshness": "fresh",
+    "publication": "Time Out",
+    "quote": "Thompson and Winslet give fine performances ably supported by the rest of the ensemble"
+  },
+  {
+    "critic": "Janet Maslin",
+    "freshness": "fresh",
+    "publication": "New York Times",
+    "quote": "We need no further proof that this material is ageless."
+  },
+   {
+    "critic": "Kenneth Turan",
+    "freshness": "fresh",
+    "publication": "Los Angeles Times",
+    "quote": "The sensibility may be a bit off, but there is more than enough sense involved in this mid-Atlantic Austen to make up the difference."
+  }
+]
+}

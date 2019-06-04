@@ -1,0 +1,35 @@
+{
+"total": 50,
+"reviews": [
+  {
+    "critic": "Geoff Andrew",
+    "freshness": "fresh",
+    "publication": "Time Out",
+    "quote": "Reuniting Hyams and Van Damme, director and star of Timecop, this spectacular nail-biter exploits their combined, if limited, abilities to the full."
+  },
+   {
+    "critic": "Mick LaSalle ",
+    "freshness": "fresh",
+    "publication": "San Francisco Chronicle",
+    "quote": "Sudden Death is one of the best action thrillers of 1995. It's also the film Jean-Claude Van Damme has been building up to for 10 years."
+  },
+   {
+    "critic": "Richard Harrington",
+    "freshness": "fresh",
+    "publication": "Washington Post",
+    "quote": "Though the climactic duel atop the arena roof is patently absurd, it's also exciting as events go into sudden-death overtime, just like the game being played below."
+  },
+  {
+    "critic": "Roger Ebert ",
+    "freshness": "fresh",
+    "publication": "Chicago Sun-Times",
+    "quote": "Sudden Death isn't about common sense. It's about the manipulation of action and special-effects sequences to create a thriller effect, and at that it's pretty good."
+  },
+   {
+    "critic": "Kevin Thomas",
+    "freshness": "fresh",
+    "publication": "Los Angeles Times",
+    "quote": "A treat for Jean-Claude Van Damme fans, a superior action thriller loaded with jaw-dropping stunts and special effects, and strong in production values."
+  }
+]
+}

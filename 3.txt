@@ -1,0 +1,35 @@
+{
+"total": 50,
+"reviews": [
+  {
+    "critic": "Ryan Cracknell",
+    "freshness": "fresh",
+    "publication": "Movie Views",
+    "quote": "A funny, often hilarious, film that proves that a story doesn't need to be completely new just as long as there's a spin on it to make it different."
+  },
+   {
+    "critic": "Frederic and Mary Ann Brussat",
+    "freshness": "fresh",
+    "publication": "Spirituality and Practice",
+    "quote": "Two old men who are challenged to savor life's pleasures and end their feud."
+  },
+  {
+    "critic": "Roger Ebert",
+    "freshness": "rotten",
+    "publication": "Chicago Sun-Times",
+    "quote": "The movie is too pat and practiced to really be convincing, and the progress of Ariel's relationships with the two grumps seems dictated mostly by the needs of the screenplay."
+  },
+  {
+    "critic": "Derek Adams ",
+    "freshness": "rotten",
+    "publication": "Time Out",
+    "quote": "Mediocre, regrettably."
+  },
+  {
+    "critic": "Caryn James",
+    "freshness": "fresh",
+    "publication": "New York Times",
+    "quote": "Just don't expect their bickering to be on the level of Neil Simon, and you won't be disappointed."
+  }
+]
+}

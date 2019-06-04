@@ -1,0 +1,35 @@
+{
+"total": 50,
+"reviews": [
+  {
+    "critic": "Nick Schager ",
+    "freshness": "fresh",
+    "publication": "Lessons of Darkness",
+    "quote": "The filmmaker's deftness at evoking theme and sentiment through editorial montages within individual dramatic scenes reaches an apotheosis here."
+  },
+   {
+    "critic": "Peter Canavese",
+    "freshness": "fresh",
+    "publication": "Groucho Reviews",
+    "quote": "A convincing blend of Shakespearean tragedy and Citizen Kane, Nixon paints the thirty-seventh President of the United States as a uniquely American tragic hero...[Blu-Ray]"
+  },
+   {
+    "critic": "Chuck O'Leary ",
+    "freshness": "fresh",
+    "publication": "Fantastica Daily",
+    "quote": "The combination of Oliver Stone and Richard Nixon, two paranoids from opposite ends of the political spectrum, is a match made in cinematic heaven."
+  },
+  {
+    "critic": "Marjorie Baumgarten ",
+    "freshness": "fresh",
+    "publication": "Austin Chronicle",
+    "quote": "For all its unwieldy temporal scope and narrowness of perspective, Nixon is an amazingly graceful beast, flawed yet invigorating, packed with enough material that will fascinate and irk moviegoers of all stripes for quite a time to come."
+  },
+   {
+    "critic": "Nick Davis ",
+    "freshness": "fresh",
+    "publication": "Nick's Flick Picks",
+    "quote": "A hulking tyrannosaur of a movie, lusty and fierce, crashing around for all the world to see, majestic in its size and scope though it's also an instant anachronism."
+  }
+]
+}

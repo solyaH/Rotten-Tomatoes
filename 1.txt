@@ -1,0 +1,35 @@
+{
+"total": 50,
+"reviews": [
+  {
+    "critic": "Derek Adams",
+    "freshness": "fresh",
+    "publication": "Time Out",
+    "quote": "So ingenious in concept, design and execution that you could watch it on a postage stamp-sized screen and still be engulfed by its charm."
+  },
+  {
+    "critic": "Michael Booth",
+    "freshness": "fresh",
+    "publication": "Denver Post",
+    "quote": "As Lion King did before it, Toy Story revived the art of American children's animation, and ushered in a set of smart movies that entertained children and their parents. It's a landmark movie, and doesn't get old with frequent repetition."
+  },
+  {
+    "critic": "Geoff Andrew",
+    "freshness": "fresh",
+    "publication": "Time Out",
+    "quote": "The film will probably be more fully appreciated by adults, who'll love the snappy, knowing verbal gags, the vivid, deftly defined characters, and the overall conceptual sophistication."
+  },
+  {
+    "critic": "Kenneth Turan",
+    "freshness": "fresh",
+    "publication": "Los Angeles Times",
+    "quote": "Although its computer-generated imagery is impressive, the major surprise of this bright foray into a new kind of animation is how much cleverness has been invested in story and dialogue."
+  },
+  {
+    "critic": "John Hartl ",
+    "freshness": "fresh",
+    "publication": "Film.com",
+    "quote": "Disney's witty, wondrously imaginative, all-computer-generated cartoon is far and away the best of the new holiday movies in town."
+  }
+]
+}

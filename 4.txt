@@ -1,0 +1,23 @@
+{
+"total": 50,
+"reviews": [
+  {
+    "critic": "Liam Lacey",
+    "freshness": "rotten",
+    "publication": "Globe and Mail",
+    "quote": "Never escapes the queasy aura of Melrose Place: just another story about beautiful people with small problems."
+  },
+  {
+    "critic": "Kenneth Turan",
+    "freshness": "fresh",
+    "publication": "Los Angeles Times",
+    "quote": "A pleasant if undemanding piece of work that is diverting to sit through though it won't stand up to any kind of rigorous examination."
+  },
+  {
+    "critic": "Edward Guthmann",
+    "freshness": "rotten",
+    "publication": "San Francisco Chronicle",
+    "quote": "You want the movie to stomp and rejoice and cry like a fool; instead it meanders and lollygags, occasionally flaring up, then sputtering again."
+  }
+]
+}

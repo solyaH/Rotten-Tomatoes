@@ -1,0 +1,35 @@
+{
+"total": 50,
+"reviews": [
+  {
+    "critic": "Nell Minow",
+    "freshness": "fresh",
+    "publication": "Common Sense Media",
+    "quote": "Brave dog saves kids in adequate fact-based film."
+  },
+  {
+    "critic": "Frederic and Mary Ann Brussat",
+    "freshness": "fresh",
+    "publication": "Spirituality and Practice",
+    "quote": "An Alaskan dog who gets a chance to demonstrate his courage and creativity on a mission of mercy."
+  },
+  {
+    "critic": "Scott Weinberg ",
+    "freshness": "fresh",
+    "publication": "eFilmCritic.com",
+    "quote": "Unassuming and enjoyable animated adventure."
+  },
+  {
+    "critic": "Susan Wloszczyna",
+    "freshness": "rotten",
+    "publication": "USA Today",
+    "quote": "The love story is pure mush, not helped by the bland voice work done by Kevin Bacon as Balto and Bridget Fonda as dainty husky Jenna."
+  },
+  {
+    "critic": "Mike McGranaghan",
+    "freshness": "fresh",
+    "publication": "Aisle Seat",
+    "quote": "k."
+  }
+]
+}

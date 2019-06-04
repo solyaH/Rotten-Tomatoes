@@ -1,0 +1,35 @@
+{
+"total": 50,
+"reviews": [
+  {
+    "critic": "Emanuel Levy",
+    "freshness": "fresh",
+    "publication": "EmanuelLevy.Com",
+    "quote": "A charming reworking of the classic Cinderella story, Billy Wilder's Sabrina featurs a terrific cast, headed by William Holden, Humphrey Bogart (in a comedy role!), and best of all Audrey Hepburn."
+  },
+   {
+    "critic": "Variety Staff",
+    "freshness": "fresh",
+    "publication": "Variety",
+    "quote": "Script is long on glibly quipping dialog, dropped with a seemingly casual air, and broadly played situations. The splendid trouping delivers them style. Leavening the chuckles are tugs at the heart."
+  },
+   {
+    "critic": "James Berardinelli",
+    "freshness": "fresh",
+    "publication": "ReelViews",
+    "quote": "Hampered by an unimaginative script ... nevertheless manages to be a thoroughly charming, delightfully romantic variation of the Cinderella story."
+  },
+  {
+    "critic": "Bosley Crowther",
+    "freshness": "fresh",
+    "publication": "New York Times",
+    "quote": "It is a story as light as a feather and as old as yesterday's news, as transparent as a society column item and as smug as a foreign-made car. But Mr. Wilder...has made it into a commentary as crisp as a screed in a smart magazine."
+  },
+   {
+    "critic": "Derek Adams ",
+    "freshness": "fresh",
+    "publication": "Time Out",
+    "quote": "It's a Cinderella story that gets turned on its head, a satire about breaking down class and emotional barriers, and a confrontation between New World callousness and Old World humanity."
+  }
+]
+}

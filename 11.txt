@@ -1,0 +1,35 @@
+{
+"total": 50,
+"reviews": [
+  {
+    "critic": "Janet Maslin",
+    "freshness": "fresh",
+    "publication": "New York Times",
+    "quote": "With great looks, a dandy supporting cast, a zinger-filled screenplay by Aaron Sorkin and Mr. Douglas twinkling merrily in the Oval Office, The American President is sunny enough to make the real Presidency pale by comparison."
+  },
+   {
+    "critic": "Fred Topel",
+    "freshness": "fresh",
+    "publication": "About.com",
+    "quote": "Good romantic comedy. Some funny irreverence about the White House, and a well-meaning political message."
+  },
+   {
+    "critic": "Luke Y. Thompson",
+    "freshness": "fresh",
+    "publication": "New Times",
+    "quote": "So-so fantasy about what a more courageous Bill Clinton might have been like."
+  },
+  {
+    "critic": "Dennis Schwartz",
+    "freshness": "fresh",
+    "publication": "Ozus' World Movie Reviews",
+    "quote": "A genial and glossy middle-brow rom/com blended together with corny Capra-like political drama."
+  },
+   {
+    "critic": "Emanuel Levy",
+    "freshness": "fresh",
+    "publication": "EmanuelLevy.Com",
+    "quote": "Light, fluffy romantic comedy, well acted by Michael Douglas."
+  }
+]
+}

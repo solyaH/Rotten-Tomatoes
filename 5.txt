@@ -1,0 +1,35 @@
+{
+"total": 50,
+"reviews": [
+  {
+    "critic": "Steve Rhodes",
+    "freshness": "fresh",
+    "publication": "Internet Reviews",
+    "quote": "FATHER OF THE BRIDE II is a surprisingly excellent and touching comedy. The director (Charles Shyer), the writers (Nancy Meyers and Charles Shyer), and all of the cast are back from FATHER OF THE BRIDE (1991) which is in turn a remake of the 1950 movie of the same name. Unlike the 1991 movie which is broadly written for maximum laughs, the sequel is an even better movie that relies for its charm on its poignancy although there are innumerable hilarious moments as well. FATHER OF THE BRIDE II had me in tears twice. On the other hand, I rolled over in laughter so loud in one scene that I scared the woman in front of me. A very affecting and effective movie."
+  },
+  {
+    "critic": "Henry Sheehan",
+    "freshness": "rotten",
+    "publication": "Hollywood Reporter",
+    "quote": "The film's sole dramatic preoccupations are with broad physical comedy and unrealistically offbeat characterizations; a few moments of nominal pathos are really just structural pauses in the joke series."
+  },
+  {
+    "critic": "Susan Stark",
+    "freshness": "fresh",
+    "publication": "Entertainment Weekly",
+    "quote": "It was easy for cineastes to sneer at 1991's Father of the Bride: Why, the nerve of cowriter-director Charles Shyer and cowriter Nancy Meyers to remake director Vincente Minnelli's 1950 classic with Steve Martin in the Spencer Tracy role and Kimberly Williams in Elizabeth Taylor's! The sneers will only increase for Father of the Bride Part II, a new version of the sequel, 1951's Father's Little Dividend; how dare Shyer and Meyers remake... an inferior sequel! This sort of sniping gets tedious fast. Fact is, Father of the Bride Part II starts off weak but finishes strong-wacky and weepy, silly and sweet."
+  },
+  {
+    "critic": "Desson Thomson",
+    "freshness": "rotten",
+    "publication": "Washington Post",
+    "quote": "After a provocative setup, this Touchstone Pictures offering pads innocuously down the aisle, a remake that doesn't touch the Spencer Tracy classic of the same name."
+  },
+  {
+    "critic": "Peter Canavese",
+    "freshness": "fresh",
+    "publication": "Groucho Reviews",
+    "quote": "The family comedies Father of the Bride and Father of the Bride, Part II are perhaps best distinguished as weepies for dads (especially dads with daughters). Know thyself: if you're a softie at heart, these two remakes will undoubtedly work on you, the sentiment being much more prominent than humor. If you're looking for the 'wild and crazy guy' version of Steve Martin, you've come to the wrong place: while that guy shows up in a few scenes, he's been appropriated (if not castrated) by Disney.  These are the contempo, California-casual versions of 1950's Father of the Bride and 1951's Father's Little Dividend that one should expect from the then-married couple Charles Shyer (director, producer, co-writer) and Nancy Meyers (producer, co-writer): sunny, sweet, and safe."
+  }
+]
+}

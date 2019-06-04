@@ -1,0 +1,35 @@
+{
+"total": 50,
+"reviews": [
+  {
+    "critic": "Michael Clawson",
+    "freshness": "rotten",
+    "publication": "West Valley View",
+    "quote": "Long, tirelessly epic tale of TeenBeat cover boys. Little girls scream, critics fall asleep."
+  },
+   {
+    "critic": "James Sanford",
+    "freshness": "rotten",
+    "publication": "Kalamazoo Gazette",
+    "quote": "Mark Twain's rascals are hard to recognize in this scrubbed and polished retelling"
+  },
+   {
+    "critic": "Madeleine Williams",
+    "freshness": "rotten",
+    "publication": "Cinematter",
+    "quote": "Disney presents a rather bland display of Mark Twain's Tom Sawyer. Jonathan Taylor Thomas is Tom the troublemaking schemer of a child. Brad Renfro plays Huckleberry Finn, the outcast loner of Hannibal, Missouri, wild boy and rebel. After the two friends witness Injun Joe commit a murder in the local cemetery, they sign a blood oath never to tell. However, Tom faces a crisis of conscience when an innocent man might hang for the crime. Jonathan Taylor Thomas is the key to the whole movie; unfortunately, he can't bear the strain. He has fallen into the Macaulay Culkin-esque trap of incessantly mugging for the camera, rather than acting. He should take some cues from Brad Renfro, who does an outstanding job as Huck Finn. Renfro protrays a wild boy forced to make the best of a bad situation, and living by his own code of rules. The hurried direction does not seem to help matters. The several subplots are handled brisquely and seem virtually tacked on. The story is a good one (as time has attested), but this telling isn't.Also included with the theatrical run of Tom and Huck is a short animated film, Stand By Me, featuring Timon and Pumbaa from the Lion King. However, this effort is disastrous. Featuring absolutely none of the delightful animation and wit of the Lion King, Stand By Me is a very bad animated music video. Timon sings 'Stand By Me', while Pumbaa is assaulted by split second dangers more suitable to a Bugs Bunny short than the Lion King. Don't let this be a factor in favor of seeing Tom and Huck. "
+  },
+  {
+    "critic": "Susan Wloszczyna ",
+    "freshness": "rotten",
+    "publication": "USA Today",
+    "quote": "A joyless lump."
+  },
+   {
+    "critic": "Philip Martin ",
+    "freshness": "rotten",
+    "publication": "Arkansas Democrat-Gazette",
+    "quote": "It's pablum, but at least it's not poison."
+  }
+]
+}

@@ -1,0 +1,35 @@
+{
+"total": 50,
+"reviews": [
+  {
+    "critic": "Jonathan Rosenbaum",
+    "freshness": "rotten",
+    "publication": "Chicago Reader",
+    "quote": "The results are mainly awful, and even Roth got saddled with a mannered part that he can't comfortably play."
+  },
+   {
+    "critic": "Emanuel Levy",
+    "freshness": "fresh",
+    "publication": "Variety",
+    "quote": "Four of the hottest indie directors--Anders, Rockwell, Tarantino, and Rodrigues--miss a unique opportunity to display their idiosyncratic talents resulting in a tedious anthology in which 2 segments are inept, one barely decent, and one OK (guess whose)."
+  },
+   {
+    "critic": "Jack Mathews",
+    "freshness": "fresh",
+    "publication": "Los Angeles Times",
+    "quote": "Sounds better than it is."
+  },
+  {
+    "critic": "James Berardinelli",
+    "freshness": "fresh",
+    "publication": "ReelViews",
+    "quote": "Four Rooms has to be one of 1995's major disappointments."
+  },
+   {
+    "critic": "Pablo Villaca",
+    "freshness": "fresh",
+    "publication": "Cinema em Cena",
+    "quote": "O episodio dirigido por Taratino, que funciona como uma grande preparacao para uma excelente tirada final, e memoravel. Pena que temos que assistir a uma hora de besteiras para chegar ate ele."
+  }
+]
+}
